@@ -3,11 +3,11 @@
 ## Filely
 
 ## Overview
-"Filely is a web app that sends files to a server using Transfer Communication Protocol. It demonstrates  the interaction that occurs between the  client and server.files are uploaded and sent from the client's side. If the server is on, it accepts and saves the files. it has  a user-friendly interface.
+Filely is a web app that sends files to a server using Transfer Communication Protocol. It demonstrates  the interaction that occurs between the  client and server.files are uploaded and sent from the client's side. If the server is on, it accepts and saves the files. it has  a user-friendly interface.
 
 ## preview
 
-![filely-screenshot][public/filelyimage.png]
+![filely-screenshot][client/public/filelyimage.png]
 
 
 
@@ -62,6 +62,6 @@
  ## Resources
 
   https://www.youtube.com/watch?v=DHlV65WTG3k (styling file input button)
-  
+
   https://freshman.tech/file-upload-golang/ 
 
