@@ -7,7 +7,7 @@ Filely is a web app that sends files to a server using Transfer Communication Pr
 
 ## preview
 
-![filely-screenshot][client/public/filelyimage.png]
+![filely-screenshot](client/public/filelyimage.png)
 
 
 
