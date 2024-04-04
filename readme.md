@@ -3,7 +3,7 @@
 ## Filely
 
 ## Overview
-Filely is a web app that sends files to a server using Transfer Communication Protocol. It demonstrates  the interaction that occurs between the  client and server.files are uploaded and sent from the client's side. If the server is on, it accepts and saves the files. it has  a user-friendly interface.
+Filely is a web app that sends files to a server using Transfer Communication Protocol. It demonstrates  the interaction that occurs between the client and server. Files are uploaded and sent from the client's side. If the server is on, it accepts and saves the files. It has  a user-friendly interface.
 
 ## preview
 
@@ -22,19 +22,19 @@ Filely is a web app that sends files to a server using Transfer Communication Pr
 - Clone the repository
 
 
-- cd into the clone repository
+- Navigate(cd) into the clone repository
 
 - Open two terminal seperately for the client and server.
 
 ### for the server side
-- cd into the server folder 
+- Navigate(cd) into the server folder 
 - run server.go in the terminal
 -  you should see TCP server started on port 9000 in your terminal
 - go into your browser and enter localhost/9000
 - check your terminal to see Client connected from: [::1]:62906(this numbers are not fixed)
 
 ### for the client side
-- cd into the client folder 
+- Navigate(cd) into the client folder 
 - run main.go in the terminal
 -  you should see listening on port 8080 in your terminal
 - go into your browser and enter localhost/8080
